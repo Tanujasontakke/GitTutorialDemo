@@ -1,0 +1,4 @@
+this file is in static folder
+asdd
+
+adding this new line 
